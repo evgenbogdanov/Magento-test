@@ -1,4 +1,8 @@
 .modgit/
+<<<<<<< HEAD
+=======
+
+>>>>>>> 60245edbf2789b0f0b57a7da2795476ad89875ae
 .idea
 .idea/*
 local.xml
