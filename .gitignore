@@ -1,7 +1,10 @@
 .modgit/
 <<<<<<< HEAD
 =======
-
+var
+var/*
+media
+media/*
 >>>>>>> 60245edbf2789b0f0b57a7da2795476ad89875ae
 .idea
 .idea/*
